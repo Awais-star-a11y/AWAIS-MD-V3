@@ -1,7 +1,7 @@
 {
-  "name": "AWAIS-MD",
+  "name": "𝗔𝗙𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀᴡᴀɪs ᴍᴅ",
-  "logo": "https://i.imgur.com/XM8Vadf.jpeg",
+  "logo": "https://i.ibb.co/f2VtdRs/93d81e1d9c229e59.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,13 +14,13 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "https://i.ibb.co/f2VtdRs/93d81e1d9c229e59.jpg.",
       "required": true,
       "value": "https://i.imgur.com/XM8Vadf.jpeg"
     }, 
     
     "ALIVE_MSG": {
-      "description": "paste your alive message hear.",
+      "description": "𝗛𝗘𝗬 𝗕𝗨𝗗𝗗𝗬 𝗜 𝗔𝗠 𝗔𝗙𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗 𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥 ",
       "required": true,
       "value": "•°- ß Ə ʌ υ ʈ ı ƒ υ ɭ - °•🩷🌸🤤.!!"
     },
@@ -93,7 +93,7 @@
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
-      "required": true,
+      "required": false,
       "value": "true"
     },
 
@@ -106,7 +106,7 @@
 
    "ALWAYS_ONLINE": {
       "description": "Make it true if want automatic voice reply .",
-      "required": false,
+      "required": true,
       "value": "true"
     }, 
 
@@ -117,7 +117,7 @@
     },    
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "𝗔𝗙𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗 💗.",
       "required": true,
       "value": "ᴀᴡᴀɪs ᴍᴅ"
     }, 
@@ -125,7 +125,7 @@
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "READ_MESSAGE": {
@@ -134,14 +134,14 @@
       "value": "false"
     }, 
     "CAPTION": {
-      "description": "enter your caption if you want to show on menu.",
+      "description": "𝗛𝗘𝗬 𝗕𝗨𝗗𝗗𝗬 𝗜 𝗔𝗠 𝗔𝗙𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗 💗.",
       "required": true,
       "value": "*ᴘᴏᴡᴅᴇʀᴇᴅ ʙʏ ᴀᴡᴀɪs ᴍᴅ*"
     }, 
     "AUTO_STATUS__MSG": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 𝒂𝒘𝒂𝒊𝒔 𝒎𝒅"
+      "value": "𝗬𝗢𝗨𝗥 𝗦𝗧𝗔𝗧𝗨𝗦 𝗝𝗨𝗦𝗧 𝗦𝗘𝗘𝗡 𝗕𝗬 𝗔𝗙𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗 💗"
     },    
 
     "CUSTOM_REACT_EMOJIS": {
@@ -159,11 +159,11 @@
     "AUTHOR": {
       "description": "stickerpack author name",
       "required": true,
-      "value": "AWAIS MD"
+      "value": "𝗔𝗙𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗"
     },
 
     "PACKNAME": {
-      "description": "stickerpack pack name",
+      "description": "𝗔𝗙𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗",
       "required": true,
       "value": "created by"
     },

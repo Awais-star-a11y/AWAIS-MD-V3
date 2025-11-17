@@ -35,7 +35,7 @@
     "@sl-code-lords/wabetainfo": "1.2.0",
     "@tobyg74/tiktok-api-dl": "1.0.13",
     "@vitalets/google-translate-api": "9.2.1",
-    "@whiskeysockets/baileys": "^6.7.21",
+    "@whiskeysockets/baileys": "github:Jeliostarr/DEV-Baileys",
     "adm-zip": "^0.5.16",
     "api-dylux": "latest",
     "aptoide-scraper": "1.0.1",

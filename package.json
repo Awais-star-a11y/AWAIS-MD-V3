@@ -33,7 +33,7 @@
         "@dark-yasiya/yt-dl.js": "latest", 
         "@dark-yasiya/scrap": "1.0.1",
         "@vitalets/google-translate-api": "9.2.1",
-        "@whiskeysockets/baileys":"github:Jeliostarr/DEV-Baileys",
+        "@whiskeysockets/baileys":"7.0.0-rc.8",
         "api-dylux": "latest",
         "aptoide-scraper": "1.0.1",
         "awesome-phonenumber": "7.5.0",

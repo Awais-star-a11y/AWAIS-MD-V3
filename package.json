@@ -4,7 +4,7 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "start.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name DARK-SILENCE-MD",
+    "start": "pm2 start start.js --deep-monitoring --attach --name AWAIS-MD",
     "stop": "pm2 stop AWAIS-MD",
     "restart": "pm2 restart AWAIS-MD"
   },

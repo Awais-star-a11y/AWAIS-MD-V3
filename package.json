@@ -2,9 +2,9 @@
   "name": "AWAIS-MD",
   "version": "1.0.3",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "start.js",
+  "main": "index.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name AWAIS-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name AWAIS-MD",
     "stop": "pm2 stop AWAIS-MD",
     "restart": "pm2 restart AWAIS-MD"
   },

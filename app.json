@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg"
+      "value": "https://files.catbox.moe/k4m34g.jpg"
     }, 
     
     "OWNER_NUMBER": {
@@ -34,7 +34,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "•°- ß Ə ʌ υ ʈ ı ƒ υ ɭ - °•🩷🌸🤤.!!"
+      "value": "HI DEAR YOUR BOT IS ALIVE ⚡"
     },
     
     "HEART_REACT": {

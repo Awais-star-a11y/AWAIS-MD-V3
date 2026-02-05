@@ -97,7 +97,7 @@
  
  ---
 
-<h3 align="center"> DON'T COPY AWAIS-MD-V3 SCRIPT WITHOUT PERMISSION OF AWAISXD
+<h3 align="center"> DON'T COPY AWAIS-MD-V5 SCRIPT WITHOUT PERMISSION OF AWAISXD
 </h3>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
